@@ -8,3 +8,5 @@ This is another change.
 blah blah blah
 
 THIS IS FOR MINI PROJECT 2
+
+ANOTHER CHANGE FOR MINI PROJECT 2
