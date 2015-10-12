@@ -6,3 +6,5 @@ Change this line. Change.
 This is a change... update the file.
 This is another change.
 blah blah blah
+
+THIS IS FOR MINI PROJECT 2
